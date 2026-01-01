@@ -7,7 +7,7 @@
 local SPEED_UP   = 0.02
 local SPEED_DOWN = 0.015
 local CLAIM_SOUND_ID = "rbxassetid://138312061848927"
-local SOUND_COOLDOWN = 0.35 -- cegah sound spam
+local SOUND_COOLDOWN = 0.35
 
 -- ================= SERVICES =================
 local Players = game:GetService("Players")
